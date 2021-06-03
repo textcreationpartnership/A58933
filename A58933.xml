@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable memento to all the electors of knights, citizens &amp; burgesses of England, for the approaching Convention to meet the 22 of this instant January, 1689</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58933</idno><idno type="EEBO-CITATION">11907136</idno>
+  <idno type="VID">50737</idno>
+  <idno type="EEBO-PROQUEST">2240896535</idno>
+  
+            <idno type="STC">Wing S2234</idno>
+            <idno type="STC">ESTC R10312</idno>
+            <idno type="OCLC">11907136</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50737)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 511:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable memento to all the electors of knights, citizens &amp; burgesses of England, for the approaching Convention to meet the 22 of this instant January, 1689</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50737:1"/>
+            <head>A Seasonable MEMENTO TO ALL THE ELECTORS OF <hi>Knights, Citizens</hi> &amp; <hi>Burgesses</hi> OF ENGLAND, For the approaching Convention to Meet the 22. of this Instant <hi>January,</hi> 1689.</head>
+            <p>SInce it hath pleased God to make <hi>England</hi> a place, where at this time He doth so eminently display the effects of His Wisdom, Goodness and Power, those glori<g ref="char:EOLhyphen"/>ous Attributes of His Divine Being, and thereby puts a price into the Hands of <hi>England,</hi> let it not hereafter be said, <hi>It was in the Hands of Fools;</hi> and if you shall neglect this opportunity, you may well be accounted to Desert your own selves, and run away from your own Happiness, since I think I may, without a Lye, assert that no Record Sacred or Humane, can president our Case; such a Conjuncture made up of so many Important and wonderful Circumstances, and plainly calls aloud to all good Protestants and true <hi>English</hi> men, to give due praise to the Divine Author of all these Revolutions; and next seek His Blessing and Direction upon the farther use of means, laying aside all Animosities or Heats, and concur together, putting in their Mite into the common Treasury of Providential means, towards the perfecting this great and glorious Work, securing Religion, and restoring Property to all, according to the Laws of the Land, and undoubted Rights of every free-born Protestant so successfully be<g ref="char:EOLhyphen"/>gun by you, Prince of <hi>Orange,</hi> and those glorious <hi>English</hi> Patriots his Assistants in this Work, and that I may bring my share into the common Treasury, I offer these things following to the Consideration of every serious and unprejudiced Reader; and hope that the since<g ref="char:EOLhyphen"/>rity of the Design will Apologize for the weakness of the doing it.</p>
+            <p>And tho this Convention be not a Parliament <hi>ipso facto,</hi> in full Sanction and legal Parliamentary qualifications, yet I am sure the consequence of that Assembly seems to call for all our care and prudence in the choice of fit Men to fill it up, and an Error in that Convention will be very mischievous to the Nation.</p>
+            <p n="1">1. Then: Let me Advise you to choose none Members to serve for Corporations that have had a hand in delivering up of Charters: and pleading for their Excuse <hi>Arguments taken out of Observators;</hi> and particularly, review those of the Aldermen of the City of <hi>London,</hi> who occasioned the delivery of <hi>Londons</hi> Charter; and so basely betrayed the Citizen to become a Courtier, which Action I hope is at this time not forgotten by any.</p>
+            <pb facs="tcp:50737:2"/>
+            <p n="2">II. Consider the Panell of Jurors that were concerned in those great and remarkable Tryals, in which there were such strange Verdicts given, as Sir <hi>George Wakeman,</hi> Count <hi>Conings<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ark,</hi> the brave Lord <hi>Russell,</hi> Colonel <hi>Sidney,</hi> Alderman <hi>Cornish,</hi> Alderman <hi>Pilkington,</hi> the City Ryoters, and <hi>Oates</hi> his Perjuries, and <hi>Braddon</hi> and <hi>Speak,</hi> and then Reflect, That if you choose any concern'd in these Cases, you approve of the Verdicts, and Reward them for it, and give them opportunity to excuse their own Faults.</p>
+            <p n="3">III. Consider who were Judges, Counsellors, and Managers of all those before menti<g ref="char:EOLhyphen"/>oned things, either in the first or second Paragraph, and think seriously, whether they did discharge themselves as just Judges, or honest Lawyers, or conscientious Jurors, and would in every state be done by, as they have done to others.</p>
+            <p n="4">IV. Choose Men of Parts to Know and Courage to Act whatsoever may be service<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the Publique; such who in former Parliaments have behav'd themseves well. Let them be also men of Estates, such as will not buy your Voice now, in hopes to sell their own for profit hereafter.</p>
+            <p n="5">V. Such whom you Really believe have a true sence of Holy Religion, and that are men of a Christian Principle, in reference to due <hi>Liberty of Conscience,</hi> so that all that will live soberly and civilly under the Government, may have the Protection of it, and not made liable to be made a Prey, and their Families undone for want of strict Confor<g ref="char:EOLhyphen"/>mity to Ecclesiastical Superiors.</p>
+            <p>
+               <hi>Lastly,</hi> Choose none Members who attempted unheard of tricks in Elections <hi>about three years since,</hi> and afterwards did dare to sit, tho so oddly chosen: But rather, in the gene<g ref="char:EOLhyphen"/>ral choose those Gentlemen in their places that have been made Instruments of our present Deliverance. The occasion will refresh your Memory, that they have been Patriots for <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> and <hi>Liberty,</hi> and bold ones too. And when you have thus done, by your Prayers recommend them and their Counsels to the Almighty, that He will be pleased by them to settle His Holy Religion among us, and secure us our Liberty, so that it may not be in the power of any to subvert it for the future.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
